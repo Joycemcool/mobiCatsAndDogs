@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CatsAndDogs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_cats_fragment">Hello cats fragment</string>
+    <string name="hello_dogs_fragment">Hello dogs fragment</string>
+</resources>
